@@ -1,1 +1,1 @@
-# lab-13-learning
+Day 13 Lab 13 explores Retrieval-Augmented Generation (RAG) and source verification in aviation. It compares grounded and ungrounded AI answers using Air India policies, checks unsupported claims, verifies citations, tests missing information, and highlights human review, privacy, accuracy, responsible communication, and safe use of AI in passenger services.
